@@ -2,7 +2,7 @@
 
 
 ## About
-This repository is a .NET Console Application that gives a brazilian address based on the  [CEP (Código de Endereçamento Postal)](https://en.wikipedia.org/wiki/C%c3%b3digo_de_Endere%c3%a7amento_Postal).
+This repository is a .NET Console Application that provides an address based on the  [CEP (Brazilian zip code)](https://en.wikipedia.org/wiki/C%c3%b3digo_de_Endere%c3%a7amento_Postal).
 The program uses the [Correios' CEP Search](https://buscacepinter.correios.com.br/app/endereco/index.php) to obtain the informations and RestSharp to handle the HTTP Request.
 
 
